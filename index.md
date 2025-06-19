@@ -11,4 +11,4 @@ Explore my:
 
 - 🛠️ [Projects](projects/)
 - 📜 [Resume](resume/)
-- ✍️ [Blog Posts](blog/)
+- ✍️ [Skills](skills/)
