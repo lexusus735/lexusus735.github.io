@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Alex Ousman Jarju"
-  avatar : "/assets/images/'linkedlin photo'.jfif"
+  avatar : "/assets/images/profileImage.jpg"
   bio    : "Data Analyst|Aspiring Analytics Engineer."
   links:
     #- label: "Website"
