@@ -5,6 +5,10 @@
 layout: single
 author_profile: true
 ---
-I am a graduate student at the university of Avignon, my main projects
-- Project 1
-- Project 2
+Hi there! I'm **Alex Ousman Jarju**, a graduate student studying law, data and AI.
+
+Explore my:
+
+- 🛠️ [Projects](projects/)
+- 📜 [Resume](resume/)
+- ✍️ [Blog Posts](blog/)
