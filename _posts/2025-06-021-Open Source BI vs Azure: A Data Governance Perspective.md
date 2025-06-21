@@ -1,24 +1,24 @@
-#---
-#title: "Open Source BI vs Azure: A Data Governance Perspective"
-#excerpt_separator: "<!--more-->"
-#categories:
- # - Blog
-#tags:
- # - Post Formats
-  #- readability
-  #- standard
-#---
 ---
 title: "Open Source BI vs Azure: A Data Governance Perspective"
-layout: single
-classes: wide
-author_profile: true
-read_time: true
-share: true
-related: true
-tags: [data governance, digital sovereignty, open source BI, azure, final year project, business intelligence, data engineering]
-description: "Comparative study on open-source vs Azure-based BI pipelines for digital sovereignty and data governance. Includes hands-on implementation and structured evaluation."
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
 ---
+
+#title: "Open Source BI vs Azure: A Data Governance Perspective"
+#layout: single
+#classes: wide
+#author_profile: true
+#read_time: true
+#share: true
+#related: true
+#tags: [data governance, digital sovereignty, open source BI, azure, final year project, business intelligence, data engineering]
+#description: "Comparative study on open-source vs Azure-based BI pipelines for digital sovereignty and data governance. Includes hands-on implementation and structured evaluation."
+
 
 ## 🎓 Final Year Project: Business Intelligence and Digital Sovereignty
 
