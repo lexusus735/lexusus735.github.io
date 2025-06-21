@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-# Welcome!
+
 
 Hi there! I'm **Alex Ousman Jarju**, a graduate student with a unique blend of expertise in **law, data, and artificial intelligence**. I am passionate about leveraging data engineering, governance, and AI technologies to create ethical and impactful solutions.
 
