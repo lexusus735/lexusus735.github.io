@@ -1,14 +1,20 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
 ---
-Hi there! I'm **Alex Ousman Jarju**, a graduate student studying law, data and AI.
 
-Explore my:
+# Welcome!
 
-- 🛠️ [Projects](projects/)
-- 📜 [Resume](resume/)
-- ✍️ [Skills](skills/)
+Hi there! I'm **Alex Ousman Jarju**, a graduate student with a unique blend of expertise in **law, data, and artificial intelligence**. I am passionate about leveraging data engineering, governance, and AI technologies to create ethical and impactful solutions.
+
+On this site, you’ll find a curated collection of my:
+
+- 🛠️ [Projects](projects/) — Hands-on work demonstrating data analytics, engineering pipelines, and AI applications.
+- 📜 [Resume](resume/) — My professional background and academic achievements.
+- ✍️ [Skills](skills/) — A detailed overview of the technical and soft skills I bring to the table.
+
+I invite you to explore my work and connect if you’re interested in collaborating or discussing opportunities in data and AI.
+
+---
+
+*Driven by curiosity and committed to responsible innovation.*
